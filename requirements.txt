@@ -1,0 +1,4 @@
+opendartreader
+finance-datareader
+pandas
+# pykrx        # (선택) 시총 순위 대안 소스. 최신 pykrx는 KRX_ID/KRX_PW 환경변수 필요
