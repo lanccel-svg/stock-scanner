@@ -17,7 +17,7 @@ DART KEY : https://opendart.fss.or.kr 무료 발급
 
 import os, json, time
 import pandas as pd
-import OpenDartReader
+from opendartreader import OpenDartReader
 
 # ── 설정 ───────────────────────────────────────────────────────
 # 클라우드 루틴용: 키/설정은 클라우드 '환경변수'로 주입 (코드/저장소에 키 하드코딩 금지)
